@@ -1,0 +1,15 @@
+* functional components
+function Welcome(){
+	return <h1> Welcome to React</h1>
+}
+*class components
+class Welcome extends React.Component{
+	render(){
+		return <h1> Welcome to React</h1>
+	}
+}
+
+A page broke into 3 sections:
+1. navigation sections
+2. main content section
+3. footer section

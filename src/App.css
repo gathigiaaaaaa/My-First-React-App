@@ -1,3 +1,20 @@
-h1{
-	color:red;
+body {
+  margin: 0;
+  background-color: #1e1e2f;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+  color: white;
+}
+
+.clock {
+  background-color: purple;
+  padding: 30px;
+  border-radius: 15px;
+  width: 320px;
+  margin: auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
